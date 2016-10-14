@@ -7,4 +7,4 @@ _GitHub_ es una **forja** (plataforma de desarrollo colaborativo) para alojar **
 * [desarrolloweb](http://www.desarrolloweb.com/)
 * [forosdelweb](http://www.forosdelweb.com/)
 
-###Kevin Blanco Villegas
+###Creado por **Kevin Blanco Villegas**
